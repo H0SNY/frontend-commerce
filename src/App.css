@@ -1,0 +1,149 @@
+p {
+	font-family: 'Work Sans', sans-serif;
+	font-weight: 500;
+}
+h1 {
+	font-family: 'Work Sans', sans-serif;
+	font-weight: 1000;
+}
+h2 {
+	font-family: 'Work Sans', sans-serif;
+	font-weight: 900;
+}
+h3 {
+	font-family: 'Work Sans', sans-serif;
+	font-weight: 800;
+}
+h4 {
+	font-family: 'Work Sans', sans-serif;
+	font-weight: 700;
+}
+h5 {
+	font-family: 'Work Sans', sans-serif;
+	font-weight: 600;
+}
+h6 {
+	font-family: 'Work Sans', sans-serif;
+	font-weight: 500;
+}
+.hide {
+	display: none;
+}
+.show {
+	display: block;
+}
+* {
+	position: relative;
+	z-index: 20;
+}
+
+body {
+	background-color: rgb(226, 232, 240);
+}
+.skeleton{
+	opacity: .7;
+	animation: skeleton-start 1s linear infinite alternate;
+}
+@keyframes skeleton-start {
+	0%{	
+		background-color: hsl(200 , 20% , 70%);
+	}
+	100%{
+		background-color: hsl(200 , 20% , 95%);
+	}
+}
+.messageRoot{
+	text-align: center;
+	color: aliceblue;
+}
+
+.messageRoot > div{
+	width: 100%;
+	justify-content: center;
+}
+
+.loader {
+	margin: 20px;
+  display: inline-block;
+  width: 50px;
+  height: 50px;
+}
+
+.loading::after{
+  content: "loading";
+  animation: loading 2s infinite linear;
+}
+
+.loader:after {
+  content: "";
+  display: block;
+  width: 30px;
+  height: 30px;
+  margin: 8px;
+  border-radius: 50%;
+  border: 6px solid #fff;
+  animation: lds-dual-ring 2s linear infinite;
+}
+
+.textRoot{
+  padding-left: 15px;
+}
+
+.hide{
+	display: none;
+}
+
+
+@keyframes lds-dual-ring {
+  0% {
+    transform: rotate(0deg);
+    border-color: rgba(30 , 30 , 100) transparent rgba(30 , 30 , 100) transparent;
+  }
+  50% {
+    transform: rotate(180deg);
+    border-color: rgba(60 , 60 , 200) transparent rgba(60 , 60 , 200) transparent;
+  }
+  
+  100%{
+    transform: rotate(0deg);
+    border-color: rgba(90 , 90 , 250) transparent rgba(90 , 90 , 250) transparent;
+
+  }
+}
+
+@keyframes loading {
+  0%{
+    content: "loading.";
+  }
+  25%{
+    content: "loading..";
+    
+  }
+  
+  50%{
+    content: "loading...";
+
+  }
+  75%{
+    content: "loading....";
+  }
+  
+  100%{
+    content: "loading.....";
+
+  }
+}
+
+.overlay{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 1);
+  backdrop-filter: blur(13px);
+  z-index: 40;
+}
+
+
+

@@ -1,0 +1,450 @@
+text-inherit	color: inherit;	
+Aa
+text-current	color: currentColor;	
+Aa
+text-transparent	color: transparent;	
+Aa
+text-black	color: rgb(0 0 0);	
+Aa
+text-white	color: rgb(255 255 255);	
+Aa
+text-slate-50	color: rgb(248 250 252);	
+Aa
+text-slate-100	color: rgb(241 245 249);	
+Aa
+text-slate-200	color: rgb(226 232 240);	
+Aa
+text-slate-300	color: rgb(203 213 225);	
+Aa
+text-slate-400	color: rgb(148 163 184);	
+Aa
+text-slate-500	color: rgb(100 116 139);	
+Aa
+text-slate-600	color: rgb(71 85 105);	
+Aa
+text-slate-700	color: rgb(51 65 85);	
+Aa
+text-slate-800	color: rgb(30 41 59);	
+Aa
+text-slate-900	color: rgb(15 23 42);	
+Aa
+text-gray-50	color: rgb(249 250 251);	
+Aa
+text-gray-100	color: rgb(243 244 246);	
+Aa
+text-gray-200	color: rgb(229 231 235);	
+Aa
+text-gray-300	color: rgb(209 213 219);	
+Aa
+text-gray-400	color: rgb(156 163 175);	
+Aa
+text-gray-500	color: rgb(107 114 128);	
+Aa
+text-gray-600	color: rgb(75 85 99);	
+Aa
+text-gray-700	color: rgb(55 65 81);	
+Aa
+text-gray-800	color: rgb(31 41 55);	
+Aa
+text-gray-900	color: rgb(17 24 39);	
+Aa
+text-zinc-50	color: rgb(250 250 250);	
+Aa
+text-zinc-100	color: rgb(244 244 245);	
+Aa
+text-zinc-200	color: rgb(228 228 231);	
+Aa
+text-zinc-300	color: rgb(212 212 216);	
+Aa
+text-zinc-400	color: rgb(161 161 170);	
+Aa
+text-zinc-500	color: rgb(113 113 122);	
+Aa
+text-zinc-600	color: rgb(82 82 91);	
+Aa
+text-zinc-700	color: rgb(63 63 70);	
+Aa
+text-zinc-800	color: rgb(39 39 42);	
+Aa
+text-zinc-900	color: rgb(24 24 27);	
+Aa
+text-neutral-50	color: rgb(250 250 250);	
+Aa
+text-neutral-100	color: rgb(245 245 245);	
+Aa
+text-neutral-200	color: rgb(229 229 229);	
+Aa
+text-neutral-300	color: rgb(212 212 212);	
+Aa
+text-neutral-400	color: rgb(163 163 163);	
+Aa
+text-neutral-500	color: rgb(115 115 115);	
+Aa
+text-neutral-600	color: rgb(82 82 82);	
+Aa
+text-neutral-700	color: rgb(64 64 64);	
+Aa
+text-neutral-800	color: rgb(38 38 38);	
+Aa
+text-neutral-900	color: rgb(23 23 23);	
+Aa
+text-stone-50	color: rgb(250 250 249);	
+Aa
+text-stone-100	color: rgb(245 245 244);	
+Aa
+text-stone-200	color: rgb(231 229 228);	
+Aa
+text-stone-300	color: rgb(214 211 209);	
+Aa
+text-stone-400	color: rgb(168 162 158);	
+Aa
+text-stone-500	color: rgb(120 113 108);	
+Aa
+text-stone-600	color: rgb(87 83 78);	
+Aa
+text-stone-700	color: rgb(68 64 60);	
+Aa
+text-stone-800	color: rgb(41 37 36);	
+Aa
+text-stone-900	color: rgb(28 25 23);	
+Aa
+text-red-50	color: rgb(254 242 242);	
+Aa
+text-red-100	color: rgb(254 226 226);	
+Aa
+text-red-200	color: rgb(254 202 202);	
+Aa
+text-red-300	color: rgb(252 165 165);	
+Aa
+text-red-400	color: rgb(248 113 113);	
+Aa
+text-red-500	color: rgb(239 68 68);	
+Aa
+text-red-600	color: rgb(220 38 38);	
+Aa
+text-red-700	color: rgb(185 28 28);	
+Aa
+text-red-800	color: rgb(153 27 27);	
+Aa
+text-red-900	color: rgb(127 29 29);	
+Aa
+text-orange-50	color: rgb(255 247 237);	
+Aa
+text-orange-100	color: rgb(255 237 213);	
+Aa
+text-orange-200	color: rgb(254 215 170);	
+Aa
+text-orange-300	color: rgb(253 186 116);	
+Aa
+text-orange-400	color: rgb(251 146 60);	
+Aa
+text-orange-500	color: rgb(249 115 22);	
+Aa
+text-orange-600	color: rgb(234 88 12);	
+Aa
+text-orange-700	color: rgb(194 65 12);	
+Aa
+text-orange-800	color: rgb(154 52 18);	
+Aa
+text-orange-900	color: rgb(124 45 18);	
+Aa
+text-amber-50	color: rgb(255 251 235);	
+Aa
+text-amber-100	color: rgb(254 243 199);	
+Aa
+text-amber-200	color: rgb(253 230 138);	
+Aa
+text-amber-300	color: rgb(252 211 77);	
+Aa
+text-amber-400	color: rgb(251 191 36);	
+Aa
+text-amber-500	color: rgb(245 158 11);	
+Aa
+text-amber-600	color: rgb(217 119 6);	
+Aa
+text-amber-700	color: rgb(180 83 9);	
+Aa
+text-amber-800	color: rgb(146 64 14);	
+Aa
+text-amber-900	color: rgb(120 53 15);	
+Aa
+text-yellow-50	color: rgb(254 252 232);	
+Aa
+text-yellow-100	color: rgb(254 249 195);	
+Aa
+text-yellow-200	color: rgb(254 240 138);	
+Aa
+text-yellow-300	color: rgb(253 224 71);	
+Aa
+text-yellow-400	color: rgb(250 204 21);	
+Aa
+text-yellow-500	color: rgb(234 179 8);	
+Aa
+text-yellow-600	color: rgb(202 138 4);	
+Aa
+text-yellow-700	color: rgb(161 98 7);	
+Aa
+text-yellow-800	color: rgb(133 77 14);	
+Aa
+text-yellow-900	color: rgb(113 63 18);	
+Aa
+text-lime-50	color: rgb(247 254 231);	
+Aa
+text-lime-100	color: rgb(236 252 203);	
+Aa
+text-lime-200	color: rgb(217 249 157);	
+Aa
+text-lime-300	color: rgb(190 242 100);	
+Aa
+text-lime-400	color: rgb(163 230 53);	
+Aa
+text-lime-500	color: rgb(132 204 22);	
+Aa
+text-lime-600	color: rgb(101 163 13);	
+Aa
+text-lime-700	color: rgb(77 124 15);	
+Aa
+text-lime-800	color: rgb(63 98 18);	
+Aa
+text-lime-900	color: rgb(54 83 20);	
+Aa
+text-green-50	color: rgb(240 253 244);	
+Aa
+text-green-100	color: rgb(220 252 231);	
+Aa
+text-green-200	color: rgb(187 247 208);	
+Aa
+text-green-300	color: rgb(134 239 172);	
+Aa
+text-green-400	color: rgb(74 222 128);	
+Aa
+text-green-500	color: rgb(34 197 94);	
+Aa
+text-green-600	color: rgb(22 163 74);	
+Aa
+text-green-700	color: rgb(21 128 61);	
+Aa
+text-green-800	color: rgb(22 101 52);	
+Aa
+text-green-900	color: rgb(20 83 45);	
+Aa
+text-emerald-50	color: rgb(236 253 245);	
+Aa
+text-emerald-100	color: rgb(209 250 229);	
+Aa
+text-emerald-200	color: rgb(167 243 208);	
+Aa
+text-emerald-300	color: rgb(110 231 183);	
+Aa
+text-emerald-400	color: rgb(52 211 153);	
+Aa
+text-emerald-500	color: rgb(16 185 129);	
+Aa
+text-emerald-600	color: rgb(5 150 105);	
+Aa
+text-emerald-700	color: rgb(4 120 87);	
+Aa
+text-emerald-800	color: rgb(6 95 70);	
+Aa
+text-emerald-900	color: rgb(6 78 59);	
+Aa
+text-teal-50	color: rgb(240 253 250);	
+Aa
+text-teal-100	color: rgb(204 251 241);	
+Aa
+text-teal-200	color: rgb(153 246 228);	
+Aa
+text-teal-300	color: rgb(94 234 212);	
+Aa
+text-teal-400	color: rgb(45 212 191);	
+Aa
+text-teal-500	color: rgb(20 184 166);	
+Aa
+text-teal-600	color: rgb(13 148 136);	
+Aa
+text-teal-700	color: rgb(15 118 110);	
+Aa
+text-teal-800	color: rgb(17 94 89);	
+Aa
+text-teal-900	color: rgb(19 78 74);	
+Aa
+text-cyan-50	color: rgb(236 254 255);	
+Aa
+text-cyan-100	color: rgb(207 250 254);	
+Aa
+text-cyan-200	color: rgb(165 243 252);	
+Aa
+text-cyan-300	color: rgb(103 232 249);	
+Aa
+text-cyan-400	color: rgb(34 211 238);	
+Aa
+text-cyan-500	color: rgb(6 182 212);	
+Aa
+text-cyan-600	color: rgb(8 145 178);	
+Aa
+text-cyan-700	color: rgb(14 116 144);	
+Aa
+text-cyan-800	color: rgb(21 94 117);	
+Aa
+text-cyan-900	color: rgb(22 78 99);	
+Aa
+text-sky-50	color: rgb(240 249 255);	
+Aa
+text-sky-100	color: rgb(224 242 254);	
+Aa
+text-sky-200	color: rgb(186 230 253);	
+Aa
+text-sky-300	color: rgb(125 211 252);	
+Aa
+text-sky-400	color: rgb(56 189 248);	
+Aa
+text-sky-500	color: rgb(14 165 233);	
+Aa
+text-sky-600	color: rgb(2 132 199);	
+Aa
+text-sky-700	color: rgb(3 105 161);	
+Aa
+text-sky-800	color: rgb(7 89 133);	
+Aa
+text-sky-900	color: rgb(12 74 110);	
+Aa
+text-blue-50	color: rgb(239 246 255);	
+Aa
+text-blue-100	color: rgb(219 234 254);	
+Aa
+text-blue-200	color: rgb(191 219 254);	
+Aa
+text-blue-300	color: rgb(147 197 253);	
+Aa
+text-blue-400	color: rgb(96 165 250);	
+Aa
+text-blue-500	color: rgb(59 130 246);	
+Aa
+text-blue-600	color: rgb(37 99 235);	
+Aa
+text-blue-700	color: rgb(29 78 216);	
+Aa
+text-blue-800	color: rgb(30 64 175);	
+Aa
+text-blue-900	color: rgb(30 58 138);	
+Aa
+text-indigo-50	color: rgb(238 242 255);	
+Aa
+text-indigo-100	color: rgb(224 231 255);	
+Aa
+text-indigo-200	color: rgb(199 210 254);	
+Aa
+text-indigo-300	color: rgb(165 180 252);	
+Aa
+text-indigo-400	color: rgb(129 140 248);	
+Aa
+text-indigo-500	color: rgb(99 102 241);	
+Aa
+text-indigo-600	color: rgb(79 70 229);	
+Aa
+text-indigo-700	color: rgb(67 56 202);	
+Aa
+text-indigo-800	color: rgb(55 48 163);	
+Aa
+text-indigo-900	color: rgb(49 46 129);	
+Aa
+text-violet-50	color: rgb(245 243 255);	
+Aa
+text-violet-100	color: rgb(237 233 254);	
+Aa
+text-violet-200	color: rgb(221 214 254);	
+Aa
+text-violet-300	color: rgb(196 181 253);	
+Aa
+text-violet-400	color: rgb(167 139 250);	
+Aa
+text-violet-500	color: rgb(139 92 246);	
+Aa
+text-violet-600	color: rgb(124 58 237);	
+Aa
+text-violet-700	color: rgb(109 40 217);	
+Aa
+text-violet-800	color: rgb(91 33 182);	
+Aa
+text-violet-900	color: rgb(76 29 149);	
+Aa
+text-purple-50	color: rgb(250 245 255);	
+Aa
+text-purple-100	color: rgb(243 232 255);	
+Aa
+text-purple-200	color: rgb(233 213 255);	
+Aa
+text-purple-300	color: rgb(216 180 254);	
+Aa
+text-purple-400	color: rgb(192 132 252);	
+Aa
+text-purple-500	color: rgb(168 85 247);	
+Aa
+text-purple-600	color: rgb(147 51 234);	
+Aa
+text-purple-700	color: rgb(126 34 206);	
+Aa
+text-purple-800	color: rgb(107 33 168);	
+Aa
+text-purple-900	color: rgb(88 28 135);	
+Aa
+text-fuchsia-50	color: rgb(253 244 255);	
+Aa
+text-fuchsia-100	color: rgb(250 232 255);	
+Aa
+text-fuchsia-200	color: rgb(245 208 254);	
+Aa
+text-fuchsia-300	color: rgb(240 171 252);	
+Aa
+text-fuchsia-400	color: rgb(232 121 249);	
+Aa
+text-fuchsia-500	color: rgb(217 70 239);	
+Aa
+text-fuchsia-600	color: rgb(192 38 211);	
+Aa
+text-fuchsia-700	color: rgb(162 28 175);	
+Aa
+text-fuchsia-800	color: rgb(134 25 143);	
+Aa
+text-fuchsia-900	color: rgb(112 26 117);	
+Aa
+text-pink-50	color: rgb(253 242 248);	
+Aa
+text-pink-100	color: rgb(252 231 243);	
+Aa
+text-pink-200	color: rgb(251 207 232);	
+Aa
+text-pink-300	color: rgb(249 168 212);	
+Aa
+text-pink-400	color: rgb(244 114 182);	
+Aa
+text-pink-500	color: rgb(236 72 153);	
+Aa
+text-pink-600	color: rgb(219 39 119);	
+Aa
+text-pink-700	color: rgb(190 24 93);	
+Aa
+text-pink-800	color: rgb(157 23 77);	
+Aa
+text-pink-900	color: rgb(131 24 67);	
+Aa
+text-rose-50	color: rgb(255 241 242);	
+Aa
+text-rose-100	color: rgb(255 228 230);	
+Aa
+text-rose-200	color: rgb(254 205 211);	
+Aa
+text-rose-300	color: rgb(253 164 175);	
+Aa
+text-rose-400	color: rgb(251 113 133);	
+Aa
+text-rose-500	color: rgb(244 63 94);	
+Aa
+text-rose-600	color: rgb(225 29 72);	
+Aa
+text-rose-700	color: rgb(190 18 60);	
+Aa
+text-rose-800	color: rgb(159 18 57);	
+Aa
+text-rose-900	color: rgb(136 19 55);	
+Aa
